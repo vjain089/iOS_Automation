@@ -6,6 +6,7 @@
    <UUID>7cd0fc7f-4e60-40ff-90d7-44824ac72aa3</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
+   <projectFileLocation>/Users/vaibhavjain/Katalon Studio/iOS_Project/iOS_Project.prj</projectFileLocation>
    <sourceContent>
       <sourceFolderList>
          <sourceFolderConfiguration>
